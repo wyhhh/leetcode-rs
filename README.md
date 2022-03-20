@@ -14,4 +14,11 @@
         <td>Easy</td>
         <td>Tree/DFS/BFS/Binary Tree</td>
       </tr>
+     <tr>
+        <td>
+          <a href="https://github.com/wyhhh/leetcode-rs/blob/master/700%20~%20750/_736_Parse_Lisp_Expression/src/main.rs">736. Parse Lisp Expression</a>
+        </td>
+        <td>Hard</td>
+        <td>Stack/Recursion/Hash Table/String</td>
+      </tr>
 </table>
