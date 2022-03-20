@@ -12,6 +12,6 @@
           <a href="http://rustgym.com/leetcode/1">101. Symmetric Tree</a>
         </td>
         <td>Easy</td>
-        <td>Tree, DFS, BFS, Binary Tree</td>
+        <td>Tree DFS BFS BinaryTree</td>
       </tr>
 </table>
