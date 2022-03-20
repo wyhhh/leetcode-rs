@@ -1,8 +1,9 @@
 <table>
   <thead>
     <tr>
-      <th>name</th>
+      <th>Name</th>
       <th>Level</th>
+      <th>Tags</th>
     </tr>
   </thead>
   <tbody>
@@ -11,5 +12,6 @@
           <a href="http://rustgym.com/leetcode/1">101. Symmetric Tree</a>
         </td>
         <td>Easy</td>
+        <td>Tree/DFS/BFS/Binary Tree</td>
       </tr>
 </table>
