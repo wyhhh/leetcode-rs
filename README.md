@@ -11,7 +11,7 @@
         <td>
           <a href="https://github.com/wyhhh/leetcode-rs/blob/master/100%20~%20150/_101_Symmetric_Tree/src/main.rs">101. Symmetric Tree</a>
         </td>
-        <td>Easy</td>
+        <td style="color:green">Easy</td>
         <td>Tree/DFS/BFS/Binary Tree</td>
       </tr>
      <tr>
