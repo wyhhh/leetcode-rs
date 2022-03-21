@@ -22,3 +22,4 @@
         <td>Stack/Recursion/Hash Table/String</td>
       </tr>
 </table>
+<p style="color:green">Easy</p>
