@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th>Name</th>
-      <th>Level</th>
+      <th>Hard</th>
       <th>Tags</th>
     </tr>
   </thead>
