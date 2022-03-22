@@ -5,6 +5,7 @@
       <th>Name</th>
       <th>Hard</th>
       <th>Tags</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
@@ -14,6 +15,9 @@
         </td>
         <td>⭐️</td>
         <td>Tree/ DFS/ BFS/ Binary Tree</td>
+        <td>
+          <a href="https://leetcode-cn.com/problems/symmetric-tree/">Link</a>
+        </td>
       </tr>
      <tr>
         <td>
@@ -21,5 +25,8 @@
         </td>
         <td>⭐️⭐️⭐️</td>
         <td>Stack/ Recursion/ Hash Table/ String</td>
+        <td>
+          <a href="https://leetcode-cn.com/problems/parse-lisp-expression/">Link</a>
+        </td>
       </tr>
 </table>
