@@ -29,4 +29,14 @@
           <a href="https://leetcode-cn.com/problems/parse-lisp-expression/">Link</a>
         </td>
       </tr>
+     <tr>
+        <td>
+          <a href="https://github.com/wyhhh/leetcode-rs/blob/master/1750%20~%201800/_1762_Buildings_With_an_Ocean_View/src/main.rs">1762. Buildings With an Ocean View</a>
+        </td>
+        <td>⭐️⭐️</td>
+        <td>Stack/Array/Monotonic Stack</td>
+        <td>
+          <a href="https://leetcode-cn.com/problems/buildings-with-an-ocean-view/">Link</a>
+        </td>
+      </tr>
 </table>
