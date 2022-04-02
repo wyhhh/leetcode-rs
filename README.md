@@ -39,4 +39,14 @@
           <a href="https://leetcode-cn.com/problems/buildings-with-an-ocean-view/">Link</a>
         </td>
       </tr>
+     <tr>
+        <td>
+          <a href="https://github.com/wyhhh/leetcode-rs/blob/master/2000%20~%202099/_2000_Reverse_Prefix_of_Word/src/main.rs">2000. Reverse Prefix of Word</a>
+        </td>
+        <td>⭐️</td>
+        <td>Two Pointers/String</td>
+        <td>
+          <a href="https://leetcode-cn.com/problems/reverse-prefix-of-word/">Link</a>
+        </td>
+      </tr>
 </table>
