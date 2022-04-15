@@ -23,37 +23,37 @@ impl Construct {
         Self { idx: 0, s }
     }
 
-	// 判断当前字符是否是左括号
+    // 判断当前字符是否是左括号
     fn is_list(&self) -> bool {
         self.get().unwrap() == &b'['
     }
 
-	// 判断当前字符是否是符号
+    // 判断当前字符是否是符号
     fn is_negetive(&self) -> bool {
         self.get().unwrap() == &b'-'
     }
 
-	// 逗号
+    // 逗号
     fn is_comma(&self) -> bool {
         self.get().unwrap() == &b','
     }
 
-	// 是否到达结尾
+    // 是否到达结尾
     fn is_end(&self) -> bool {
         self.get().unwrap() == &b']'
     }
 
-	// 获得当前字符
+    // 获得当前字符
     fn get(&self) -> Option<&u8> {
         self.s.as_bytes().get(self.idx)
     }
 
-	// 前进，下标加1
+    // 前进，下标加1
     fn advance(&mut self) {
         self.idx += 1;
     }
 
-	// 获得整数
+    // 获得整数
     fn get_int(&mut self) -> NestedInteger {
         let is_negetive = self.is_negetive();
         if is_negetive {
@@ -78,7 +78,7 @@ impl Construct {
     // Int = number
     fn nested(&mut self) -> NestedInteger {
         // if list
-		// 如果是list，我们就遍历 + 递归解决，因为内部可能有嵌套的list，所以需要递归
+        // 如果是list，我们就遍历 + 递归解决，因为内部可能有嵌套的list，所以需要递归
         if self.is_list() {
             self.advance();
             // println!("is list");
@@ -97,8 +97,8 @@ impl Construct {
 
             NestedInteger::List(list)
         }
-		// 这里默认为整数，因为逗号和结尾括号的情况已经在上面的分支解决了 
-		else {
+        // 这里默认为整数，因为逗号和结尾括号的情况已经在上面的分支解决了
+        else {
             // println!("is number");
             // if number
             self.get_int()

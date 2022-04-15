@@ -19,6 +19,17 @@
           <a href="https://leetcode-cn.com/problems/symmetric-tree/">Link</a>
         </td>
       </tr>
+	  </tr>
+	   <tr>
+        <td>
+          <a href="https://github.com/wyhhh/leetcode-rs/blob/master/300%20~%20399/_385_Mini_Parser/src/main.rs">385. Mini Parser</a>
+        </td>
+        <td>⭐️⭐️</td>
+        <td>Stack/Depth-First Search/String</td>
+        <td>
+          <a href="https://leetcode-cn.com/problems/mini-parser/">Link</a>
+        </td>
+      </tr>
      <tr>
         <td>
           <a href="https://github.com/wyhhh/leetcode-rs/blob/master/700%20~%20750/_736_Parse_Lisp_Expression/src/main.rs">736. Parse Lisp Expression</a>
@@ -48,5 +59,4 @@
         <td>
           <a href="https://leetcode-cn.com/problems/reverse-prefix-of-word/">Link</a>
         </td>
-      </tr>
 </table>
